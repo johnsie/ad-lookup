@@ -1,0 +1,15 @@
+C:\repos\k3\AD-Lookup\AD-Lookup\obj\Debug\AD-Lookup.csproj.AssemblyReference.cache
+C:\repos\k3\AD-Lookup\AD-Lookup\obj\Debug\AD-Lookup.csproj.SuggestedBindingRedirects.cache
+C:\repos\k3\AD-Lookup\AD-Lookup\obj\Debug\AD_Lookup.Properties.Resources.resources
+C:\repos\k3\AD-Lookup\AD-Lookup\obj\Debug\AD-Lookup.csproj.GenerateResource.cache
+C:\repos\k3\AD-Lookup\AD-Lookup\obj\Debug\AD-Lookup.csproj.CoreCompileInputs.cache
+C:\repos\k3\AD-Lookup\AD-Lookup\bin\Debug\AD-Lookup.exe.config
+C:\repos\k3\AD-Lookup\AD-Lookup\bin\Debug\AD-Lookup.exe.manifest
+C:\repos\k3\AD-Lookup\AD-Lookup\bin\Debug\AD-Lookup.application
+C:\repos\k3\AD-Lookup\AD-Lookup\bin\Debug\AD-Lookup.exe
+C:\repos\k3\AD-Lookup\AD-Lookup\bin\Debug\AD-Lookup.pdb
+C:\repos\k3\AD-Lookup\AD-Lookup\obj\Debug\AD_Lookup.frmUserLookup.resources
+C:\repos\k3\AD-Lookup\AD-Lookup\obj\Debug\AD-Lookup.exe.manifest
+C:\repos\k3\AD-Lookup\AD-Lookup\obj\Debug\AD-Lookup.application
+C:\repos\k3\AD-Lookup\AD-Lookup\obj\Debug\AD-Lookup.exe
+C:\repos\k3\AD-Lookup\AD-Lookup\obj\Debug\AD-Lookup.pdb
