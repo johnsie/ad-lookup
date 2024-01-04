@@ -6,6 +6,7 @@ This Windows Form application will allow you to look up the details of any Windo
 # Other Features
 
 Unlock locked account
+
 Reset Password
 
 I have used this application to quickly look up users and unlock them if they have been locked out.  It saves time because it is quicker than logging into a domain controller.
